@@ -1,0 +1,38 @@
+.results-table {
+  color: black;
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: left;
+  margin-top: 50px;
+}
+.table-row {
+  border: 1px solid black;
+  padding-left: 5px;
+}
+.button-container {
+  text-align: right;
+  height: 20px;
+  display: block;
+  margin-bottom: 30px;
+}
+.next-prev-button {
+  margin-left: 5px;
+  background-color: transparent;
+  border: none;
+}
+.table-container,
+.details-container {
+  width: 70%;
+  margin: auto;
+  border: 1px solid black;
+  display: block;
+  padding: 10px;
+  margin-top: 50px;
+}
+.details-container {
+  display: block;
+  text-align: left;
+  border-top: none;
+  margin-top: 0;
+}
